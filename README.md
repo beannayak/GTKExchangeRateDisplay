@@ -11,5 +11,6 @@ This program can:
   3. Has an inbuilt simple calculator.
 
 A. All required shared libraries and binaries for this program to run in windows is located in "Windows Binary" folder. 
+
 B. Can be compiled in Linux as :
     gcc currencyconverterGUI.c `pkg-config gtk+-3.0 --cflags` `pkg-config gtk+-3.0 --libs`
